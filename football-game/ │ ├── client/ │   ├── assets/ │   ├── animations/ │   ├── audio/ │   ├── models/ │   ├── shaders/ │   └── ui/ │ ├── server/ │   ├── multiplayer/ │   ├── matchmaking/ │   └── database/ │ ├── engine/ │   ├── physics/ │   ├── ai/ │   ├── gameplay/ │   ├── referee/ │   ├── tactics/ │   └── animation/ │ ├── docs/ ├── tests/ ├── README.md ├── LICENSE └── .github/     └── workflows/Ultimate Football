@@ -1,0 +1,29 @@
+football-game/
+│
+├── client/
+│   ├── assets/
+│   ├── animations/
+│   ├── audio/
+│   ├── models/
+│   ├── shaders/
+│   └── ui/
+│
+├── server/
+│   ├── multiplayer/
+│   ├── matchmaking/
+│   └── database/
+│
+├── engine/
+│   ├── physics/
+│   ├── ai/
+│   ├── gameplay/
+│   ├── referee/
+│   ├── tactics/
+│   └── animation/
+│
+├── docs/
+├── tests/
+├── README.md
+├── LICENSE
+└── .github/
+    └── workflows/
