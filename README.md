@@ -1,14 +1,6 @@
 # -Ultimate-Football
 UltimateFootball/
 │
-├── css/
-├── js/
-├── assets/
-│   ├── images/
-│   └── audio/
-└── index.html
-UltimateFootball/
-│
 ├── index.html
 ├── about.html
 ├── play.html
